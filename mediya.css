@@ -1,0 +1,108 @@
+@media screen and (max-width:600px) {
+    .navbar{
+        width: 100%;
+        height: 60px;
+
+    }
+    .nav_collection{
+        display: none;
+    }
+    .banner{
+        width: 94%;
+        height: 500px;
+        background: url("./IMAGE\ \(35\).png") no-repeat center/cover;
+    }
+    .banner h1{
+        width: 94%;
+        font-size: 40px;
+        font-family: DM Serif Display;
+        padding-top: 188px;
+        padding-left: 90px;
+    }
+    .world{
+        width: 94%;
+        padding-top: 19px;
+        padding-left: 90px;
+        line-height: 1.5;
+    }
+    .btn{
+        padding: 11px 17px;
+        border-radius: 10px;
+        margin-left: 90px;
+    }
+    .theree{
+        display: block;
+    }
+    .card{
+        width: 70%;
+        height: 20px;
+        margin-bottom: 200px;
+    } 
+    .card h2{
+        font-size: 17px;
+        text-align: center;
+        padding-top: 85px;
+    }
+    .interior{
+        width: 80%;
+        text-align: center;
+        padding-left: 37px;
+    } 
+    .box h1{
+        width: 90%;
+        font-size: 30px;
+    } 
+    .image_four{
+        display: none;
+    }
+    .five{
+        width: 94%;
+        height: 1100px;
+        display: block;
+        margin-left: 20px;
+    }
+    .five h4{
+        width: 70%;
+        font-size: 17px;
+    }
+    .picture{
+        width: 70%;
+        margin-top: 80px;
+    }
+    .seven{
+        display: block;
+        padding-top: 50px;
+    }
+    .seven img{
+        width: 30%;
+        margin-bottom: 50px;
+    }
+    .eight h1{
+        font-size: 20px;
+
+    }
+    .nine{
+        display: block;
+        width: 34%;
+    }
+    .picture_nine{
+        width: 50%;
+    }
+    .ten{
+        display: block;
+        width: 34%;
+    }
+    .picture_ten{
+        width: 50%;
+        margin-bottom: 3000px;
+    }
+    .twelef{
+        width: 100%;
+        height: 200px;
+        background-color: #F4F0EC;
+        display: block;
+        align-items: center;
+        justify-content: center;
+
+    }
+}
